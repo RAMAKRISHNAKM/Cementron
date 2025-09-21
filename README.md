@@ -1,2 +1,4 @@
 # Cementron
-This repo is for Google Cloud Exchange Hackathon
+Problem Statement : Optimizing Cement Operations with Generative AI![Uploading image.png…]()
+Solution : 
+
