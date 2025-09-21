@@ -1,0 +1,107 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "overview-hero",
+      "description": "A panoramic view of a modern cement factory at dusk.",
+      "imageUrl": "https://picsum.photos/seed/cement-plant/1920/500",
+      "imageHint": "cement factory"
+    },
+    {
+      "id": "raw-materials-hero",
+      "description": "A conveyor belt carrying limestone for cement production.",
+      "imageUrl": "https://picsum.photos/seed/industrial-conveyor/1920/400",
+      "imageHint": "raw materials"
+    },
+    {
+      "id": "clinkerization-hero",
+      "description": "A large rotary kiln used in the clinkerization process.",
+      "imageUrl": "https://picsum.photos/seed/rotary-kiln/1920/400",
+      "imageHint": "cement kiln"
+    },
+    {
+      "id": "quality-hero",
+      "description": "A laboratory setting for quality control in a cement factory.",
+      "imageUrl": "https://picsum.photos/seed/science-laboratory/1920/400",
+      "imageHint": "cement lab"
+    },
+    {
+      "id": "fuels-hero",
+      "description": "A pile of alternative fuels like shredded waste ready for use in a cement plant.",
+      "imageUrl": "https://picsum.photos/seed/waste-fuel/1920/400",
+      "imageHint": "alternative fuels"
+    },
+    {
+      "id": "cross-process-hero",
+      "description": "A control room with multiple screens showing cement plant data.",
+      "imageUrl": "https://picsum.photos/seed/factory-control-room/1920/400",
+      "imageHint": "control room"
+    },
+    {
+      "id": "energy-hero",
+      "description": "Power infrastructure at a large industrial cement plant.",
+      "imageUrl": "https://picsum.photos/seed/industrial-power/1920/400",
+      "imageHint": "industrial energy"
+    },
+    {
+      "id": "maintenance-hero",
+      "description": "A mechanic maintaining large industrial machinery at a cement factory.",
+      "imageUrl": "https://picsum.photos/seed/industrial-maintenance/1920/400",
+      "imageHint": "factory maintenance"
+    },
+    {
+      "id": "login-hero",
+      "description": "A stunning architectural shot of a modern industrial facility.",
+      "imageUrl": "https://picsum.photos/seed/modern-factory/1080/1920",
+      "imageHint": "industrial architecture"
+    },
+    {
+      "id": "emissions-hero",
+      "description": "Smoke stacks from a cement plant against a clear sky.",
+      "imageUrl": "https://picsum.photos/seed/industrial-smokestack/1920/400",
+      "imageHint": "factory smokestack"
+    },
+    {
+      "id": "page-hero-default",
+      "description": "Abstract image of industrial gears and machinery.",
+      "imageUrl": "https://picsum.photos/seed/industrial-machinery/1920/400",
+      "imageHint": "industrial gears"
+    },
+    {
+      "id": "supply-chain-hero",
+      "description": "A network of trucks and ships for industrial logistics.",
+      "imageUrl": "https://picsum.photos/seed/container-port/1920/400",
+      "imageHint": "industrial logistics"
+    },
+    {
+      "id": "safety-hero",
+      "description": "A factory worker wearing safety gear in a cement plant.",
+      "imageUrl": "https://picsum.photos/seed/industrial-worker-safety/1920/400",
+      "imageHint": "factory safety"
+    },
+    {
+      "id": "mix-design-hero",
+      "description": "A scientist examining cement powder in a laboratory.",
+      "imageUrl": "https://picsum.photos/seed/material-science-lab/1920/400",
+      "imageHint": "powder lab"
+    },
+    {
+      "id": "forecasting-hero",
+      "description": "A cityscape with construction cranes, representing market forecasting.",
+      "imageUrl": "https://picsum.photos/seed/city-construction/1920/400",
+      "imageHint": "construction forecast"
+    },
+    {
+      "id": "history-hero",
+      "description": "Ancient Roman aqueduct, showcasing early use of cementitious materials.",
+      "imageUrl": "https://picsum.photos/seed/roman-aqueduct/1920/400",
+      "imageHint": "ancient architecture"
+    },
+    {
+      "id": "manufacturing-hero",
+      "description": "Diagram showing the cement manufacturing process flow.",
+      "imageUrl": "https://picsum.photos/seed/factory-diagram/1920/400",
+      "imageHint": "industrial process"
+    }
+  ]
+}
